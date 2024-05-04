@@ -12,4 +12,10 @@ They should have the shape of the textbooks orbital.
 
 
 ![alt text](2.png)
+
+<p align="center">
+  <img src="2.png" width="350" title="2Px">
+  
+</p>
+
 This is for instance the 2Px orbital!
